@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SetHashTable:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="899996bb-d925-418c-9ad8-f89cfa5b97e4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Rd0AAeJ2NZTL7JN4IlU1DQ1RXl" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SetBST" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SetHTLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetHTLauncher" />
+      <module name="SetHashTable" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SetHTLauncher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="899996bb-d925-418c-9ad8-f89cfa5b97e4" name="Default Changelist" comment="" />
+      <created>1569981519265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569981519265</updated>
+      <workItem from="1569981521852" duration="5248000" />
+      <workItem from="1569993084943" duration="281000" />
+      <workItem from="1570212993442" duration="651000" />
+      <workItem from="1570344415998" duration="145000" />
+      <workItem from="1570414303376" duration="2264000" />
+      <workItem from="1570417627010" duration="2160000" />
+      <workItem from="1570467752394" duration="2215000" />
+      <workItem from="1570487413541" duration="617000" />
+      <workItem from="1570489055534" duration="48000" />
+      <workItem from="1570508648625" duration="3740000" />
+      <workItem from="1570557117526" duration="203000" />
+      <workItem from="1570562872131" duration="441000" />
+      <workItem from="1570592108828" duration="1144000" />
+      <workItem from="1570655484140" duration="979000" />
+      <workItem from="1570667002546" duration="2316000" />
+      <workItem from="1570725255742" duration="1119000" />
+      <workItem from="1570759242089" duration="983000" />
+      <workItem from="1571618446476" duration="1332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

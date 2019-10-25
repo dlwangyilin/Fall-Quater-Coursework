@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SetHashTable:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SetHashTable_jar</output-path>
+    <root id="archive" name="SetHashTable.jar">
+      <element id="module-output" name="SetHashTable" />
+    </root>
+  </artifact>
+</component>

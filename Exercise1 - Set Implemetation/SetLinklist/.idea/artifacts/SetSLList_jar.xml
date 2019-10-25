@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SetSLList:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SetSLList_jar</output-path>
+    <root id="archive" name="SetSLList.jar">
+      <element id="module-output" name="SetSLList" />
+    </root>
+  </artifact>
+</component>
